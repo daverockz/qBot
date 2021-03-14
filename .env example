@@ -1,0 +1,5 @@
+BASE_URL=/v1
+PORT=8081
+ENV=Development
+HOSTNAME=http://127.0.0.1
+
