@@ -9,15 +9,16 @@
   {
     "id": "12345",
     "question": "What is your age?",
-    "options": ["Chun", "Dave", "Nick"],
+    "options": ["20", "45", "50"],
     "answer": ["Chun"],
     "status": "sent"
   },
   {
     "id": "123456",
-    "question": "What is where you born?",
+    "question": "Where were you born?",
     "options": ["Chun", "Dave", "Nick"],
     "answer": ["Chun"],
     "status": "not sent"
   }
 ]
+
